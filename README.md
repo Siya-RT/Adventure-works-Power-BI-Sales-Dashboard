@@ -5,26 +5,6 @@ The project transforms business data into an interactive analytical report that 
 
 ---
 
-## 📊 Dashboard Preview
-
-### Executive Sales Dashboard
-
-![Executive Sales Dashboard](Screenshots/executive-dashboard.png)
-
-### Customer Analysis
-
-![Customer Analysis](Screenshots/customer-analysis.png)
-
-### Product & Profitability Analysis
-
-![Product & Profitability Analysis](Screenshots/profitability-analysis.png)
-
-### Regional Analysis
-
-![Regional Analysis](Screenshots/regional-analysis.png)
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to create an interactive and visually engaging Power BI dashboard that provides a comprehensive view of business performance.
